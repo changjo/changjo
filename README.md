@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chang Jo Kim
 
-![changjo's github stats](https://github-readme-stats.vercel.app/api?username=changjo&show_icons=true&theme=dracula&count_private=true)
+![changjo's github stats](https://github-readme-stats.vercel.app/api?username=changjo&show_icons=true&theme=default&count_private=true)
 
 <!--
 **changjo/changjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
