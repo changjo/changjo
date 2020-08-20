@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chang Jo Kim
+### Hi there 👋 and welcome!
 
 ![changjo's github stats](https://github-readme-stats.vercel.app/api?username=changjo&show_icons=true&theme=default&count_private=true)
 
